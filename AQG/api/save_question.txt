@@ -1,0 +1,79 @@
+**Question 1:** What is the total number of terms in the expansion of (a + b)^5?
+**Options:**
+a) 4
+b) 5
+c) 6
+d) 7
+**Answer:** c) 6
+
+**Question 2:** What is the sum of the indices of 'a' and 'b' in each term of the expansion of (a + b)^n?
+**Options:**
+a) n - 1
+b) n
+c) n + 1
+d) 2n
+**Answer:** b) n
+
+**Question 3:** Which of the following represents the coefficient of the term a^(n-2)b^2 in the binomial expansion of (a + b)^n?
+**Options:**
+a) nC0
+b) nC1
+c) nC2
+d) nCn
+**Answer:** c) nC2
+
+**Question 4:** What is the value of 5C2?
+**Options:**
+a) 5
+b) 10
+c) 15
+d) 20
+**Answer:** b) 10
+
+**Question 5:** In Pascal's triangle, what is the value of the element at the intersection of the 4th row and 2nd column?
+**Options:**
+a) 1
+b) 3
+c) 6
+d) 10
+**Answer:** c) 6
+
+**Question 6:** What is the first term in the expansion of (x + 2)^6?
+**Options:**
+a) x^6
+b) 12x^5
+c) 60x^4
+d) 160x^3
+**Answer:** a) x^6
+
+**Question 7:** What is the coefficient of x^3 in the expansion of (2x - 3)^6?
+**Options:**
+a) -4320
+b) 4320
+c) -2160
+d) 2160
+**Answer:** a) -4320
+
+**Question 8:** What is the value of (1 + 0.01)^1000000 using the first two terms of its binomial expansion?
+**Options:**
+a) 10001
+b) 10000
+c) 10000.1
+d) 10000.01
+**Answer:** a) 10001
+
+**Question 9:** Which of the following is a special case of the binomial theorem?
+**Options:**
+a) (x + y)^2 = x^2 + 2xy + y^2
+b) (x - y)^2 = x^2 - 2xy + y^2
+c) (1 + x)^n = nC0 + nC1x + nC2x^2 + ... + nCnx^n
+d) All of the above
+**Answer:** d) All of the above
+
+**Question 10:** What is the value of ∑(r=0 to n) nCr?
+**Options:**
+a) 2n
+b) 2^(n-1)
+c) 2^n
+d) 2^(n+1)
+**Answer:** c) 2^n 
